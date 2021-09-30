@@ -1,7 +1,7 @@
 {
   "app-id" : "io.gitlab.leesonwai.Sums",
   "runtime" : "org.gnome.Platform",
-  "runtime-version" : "40",
+  "runtime-version" : "41",
   "sdk" : "org.gnome.Sdk",
   "command" : "sums",
   "finish-args" : [
@@ -34,8 +34,8 @@
         {
           "type" : "git",
           "url" : "https://gitlab.gnome.org/GNOME/libadwaita.git",
-          "branch" : "main",
-          "commit" : "4f6e8283578d14ed8ad6f2b0cbf707061ba3af4d"
+          "tag" : "1.0.0.alpha.3",
+          "commit" : "40c19ab2591763a482ebc79c82f1da32eea3bab6"
         }
       ]
     },
