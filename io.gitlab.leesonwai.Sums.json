@@ -29,7 +29,7 @@
         "-Dintrospection=disabled",
         "-Dtests=false",
         "-Dvapi=false"
-      ],
+      ]
     },
     {
       "name" : "mpfr",
