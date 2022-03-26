@@ -1,7 +1,7 @@
 {
   "app-id" : "io.gitlab.leesonwai.Sums",
   "runtime" : "org.gnome.Platform",
-  "runtime-version" : "41",
+  "runtime-version" : "42",
   "sdk" : "org.gnome.Sdk",
   "command" : "sums",
   "finish-args" : [
@@ -30,13 +30,6 @@
         "-Dtests=false",
         "-Dvapi=false"
       ],
-      "sources" : [
-        {
-          "type" : "git",
-          "url" : "https://gitlab.gnome.org/GNOME/libadwaita.git",
-          "commit" : "40c19ab2591763a482ebc79c82f1da32eea3bab6"
-        }
-      ]
     },
     {
       "name" : "mpfr",
@@ -59,8 +52,8 @@
         {
           "type" : "git",
           "url" : "https://gitlab.com/leesonwai/sums.git",
-          "tag" : "0.7",
-          "commit" : "19b702558dd355baef38b4795c9e7a5f14686118"
+          "tag" : "0.8",
+          "commit" : "a835204b23745df5157673887b25e2c613528972"
         }
       ]
     }
