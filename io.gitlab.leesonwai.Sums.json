@@ -22,16 +22,6 @@
   ],
   "modules" : [
     {
-      "name" : "libadwaita",
-      "buildsystem" : "meson",
-      "config-opts" : [
-        "-Dexamples=false",
-        "-Dintrospection=disabled",
-        "-Dtests=false",
-        "-Dvapi=false"
-      ]
-    },
-    {
       "name" : "mpfr",
       "sources" : [
         {
