@@ -27,8 +27,8 @@
       "sources" : [
         {
           "type" : "archive",
-          "url" : "https://ftp.gnu.org/gnu/mpfr/mpfr-4.1.0.tar.gz",
-          "sha256" : "3127fe813218f3a1f0adf4e8899de23df33b4cf4b4b3831a5314f78e65ffa2d6"
+          "url" : "https://ftp.gnu.org/gnu/mpfr/mpfr-4.1.1.tar.xz",
+          "sha256" : "ffd195bd567dbaffc3b98b23fd00aad0537680c9896171e44fe3ff79e28ac33d"
         }
       ]
     },
@@ -43,8 +43,8 @@
         {
           "type" : "git",
           "url" : "https://gitlab.com/leesonwai/sums.git",
-          "tag" : "0.8",
-          "commit" : "a835204b23745df5157673887b25e2c613528972"
+          "tag" : "0.9",
+          "commit" : "12db08957402cc5a4c4d2e52f57c8fac47e3583b"
         }
       ]
     }
