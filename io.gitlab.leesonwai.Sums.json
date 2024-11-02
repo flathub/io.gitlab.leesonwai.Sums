@@ -1,7 +1,7 @@
 {
   "app-id" : "io.gitlab.leesonwai.Sums",
   "runtime" : "org.gnome.Platform",
-  "runtime-version" : "46",
+  "runtime-version" : "47",
   "sdk" : "org.gnome.Sdk",
   "command" : "sums",
   "finish-args" : [
@@ -43,8 +43,8 @@
         {
           "type" : "git",
           "url" : "https://gitlab.com/leesonwai/sums.git",
-          "tag" : "0.11",
-          "commit" : "9052dfa83285ddb27c56d8168e9da3ed74eca73d"
+          "tag" : "0.12",
+          "commit" : "93d2c91858589978f01c615b65bc65d681b18897"
         }
       ]
     }
