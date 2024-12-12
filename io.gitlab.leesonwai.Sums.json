@@ -43,8 +43,8 @@
         {
           "type" : "git",
           "url" : "https://gitlab.com/leesonwai/sums.git",
-          "tag" : "0.13",
-          "commit" : "473883c57ea7fe61723fc686cde80ef7ab690096"
+          "tag" : "0.14",
+          "commit" : "e4221a67ba3971ced143739540256c2c3d56e999"
         }
       ]
     }
