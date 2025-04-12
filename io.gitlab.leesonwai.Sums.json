@@ -1,7 +1,7 @@
 {
   "app-id" : "io.gitlab.leesonwai.Sums",
   "runtime" : "org.gnome.Platform",
-  "runtime-version" : "47",
+  "runtime-version" : "48",
   "sdk" : "org.gnome.Sdk",
   "command" : "sums",
   "finish-args" : [
@@ -27,8 +27,8 @@
       "sources" : [
         {
           "type" : "archive",
-          "url" : "https://ftp.gnu.org/gnu/mpfr/mpfr-4.2.1.tar.xz",
-          "sha256" : "277807353a6726978996945af13e52829e3abd7a9a5b7fb2793894e18f1fcbb2"
+          "url" : "https://ftp.gnu.org/gnu/mpfr/mpfr-4.2.2.tar.xz",
+          "sha256" : "b67ba0383ef7e8a8563734e2e889ef5ec3c3b898a01d00fa0a6869ad81c6ce01"
         }
       ]
     },
@@ -43,8 +43,8 @@
         {
           "type" : "git",
           "url" : "https://gitlab.com/leesonwai/sums.git",
-          "tag" : "0.14",
-          "commit" : "e4221a67ba3971ced143739540256c2c3d56e999"
+          "tag" : "0.15",
+          "commit" : "17c361b62da8498cc43e091fd72cc3c0b45987d6"
         }
       ]
     }
